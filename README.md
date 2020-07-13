@@ -1,7 +1,7 @@
-# Dart Programming Tutorial for Beginners 
-Learn Dart Programming, its basics and Fundamentals from scratch.
+# Dart Programming
+Belajar programming Dart Fundamental dari dasar.
 
-## Topics to be covered
+## Objectives:
 0. Overview
     - Course introduction, prequisites and software required
 1. Installation
@@ -60,7 +60,3 @@ Learn Dart Programming, its basics and Fundamentals from scratch.
     - Map and HashMap 
 12. Callable Classes 
 13. Conclusion 
-
-## Authors
-
-* **Team Smartherd** 
